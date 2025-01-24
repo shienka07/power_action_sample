@@ -1,0 +1,1 @@
+# power_action_sample
